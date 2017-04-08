@@ -5,7 +5,7 @@
 
 ![alt text][black white vert gradient]
 
-![alt text][[black whtie diagonal gradient]
+![alt text][black whtie diagonal gradient]
 
 ## Animation
 
@@ -41,7 +41,7 @@
 
 [rotating rect]:  https://github.com/susanev/p5js-workshops/blob/master/weekly-problems/images/rotating-rect.gif "Rotating rectangle"
 
-[rotating colored rect]:  https://github.com/susanev/p5js-workshops/blob/master/weekly-problems/images/rotating-rect-colors.git "Rotating rectangle with colors"
+[rotating colored rect]:  https://github.com/susanev/p5js-workshops/blob/master/weekly-problems/images/rotating-rect-colors.gif "Rotating rectangle with colors"
 
 [growing circle]: https://github.com/susanev/p5js-workshops/blob/master/weekly-problems/images/growing-circle.gif "Growing circle"
 
