@@ -41,3 +41,14 @@ _Susan Evans, Crystal Hess, Lindsey Wilson_
 * ideal next step
 	* think about both options
 	* volunteer training dates
+
+## Sunday, April 9th, 2017
+_Susan Evans, Rhazes Spell_
+
+* curriculum focus
+	* universally appealing
+	* not context dependent
+	* relevant, accessible
+	* consider tailoring curriclum as the workshop goes on, to be what is most relevant
+* what happens after the workshop
+	* starting thinking about what will be put in place to continue and extend learning
