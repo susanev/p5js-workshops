@@ -65,7 +65,7 @@ This assignment will help you practice using if-statements, to allow your progra
 * Add more custom details to your monster
 * Add an interesting moving background
 
-[monster-0]: https://github.com/susanev/p5js-workshops/blob/master/projects/images/robot.png "Robot"
+[monster-0]: https://github.com/susanev/p5js-workshops/blob/master/projects/images/monster_0.png "Robot"
 
 [monster-1]: https://github.com/susanev/p5js-workshops/blob/master/projects/images/monster_1.png "Monster Example 1"
 
