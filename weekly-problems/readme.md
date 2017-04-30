@@ -50,4 +50,3 @@
 [drawing with lines]: https://github.com/susanev/p5js-workshops/blob/master/weekly-problems/images/line-drawing.gif "Drawing with lines"
 
 [rect hover]: https://github.com/susanev/p5js-workshops/blob/master/weekly-problems/images/rect-hover.gif "Rectangle hover"
-
