@@ -12,7 +12,7 @@ This exercise is designed to explain the difference between a static program and
 ### The Code
 __Note__: It is an image, as we would like you to practice typing out the code.
 
-![code without function][images/code_not_dynamic.png]
+![code without function](images/code_not_dynamic.png)
 
 ### Need help?
 These steps will help you color your robot
@@ -27,12 +27,12 @@ The program you have written so far is static. The code runs, draws your beautif
 
 We want it to be active (keep running) and make our robot move. Notice the program shown below, this is a dynamic version. The new code groups the instructions for the robot into two functions, the `setup()` function and the `draw()` function. Tip: In programming, functions are written with a pair of parentheses after the name. You should make the highlighted changes to your code.
 
-![code with function][images/code_dynamic.png]
+![code with function](images/code_dynamic.png)
 
 ### What is happening?
 The `setup()` function runs once, when the program is first run. After the `setup()` runs, then the `draw()` function runs over and over again. This redraws the image. The diagram shows what is happening when the Processing engine runs a dynamic program.
 
-![control flow diagram][images/diagram.png]
+![control flow diagram](images/diagram.png)
 
 The way to read this diagram is first setup is called and finishes, then draw is run and finishes, and then draw is called and runs again and finishes again, again and again …. Until you stop the program or turn off your computer”
 
@@ -41,7 +41,7 @@ Add two more instructions to your dynamic program at the top of your draw functi
 
 The instructions go inside of `draw()` – right after the `draw()` function and before the `// Neck comment`. __Caution__: Notice that “mouse” is written in lowercase letters, and the X and Y are uppercase; this is required. After adding the code run your program and move your mouse.
 
-![code for background][images/part3_code.png]
+![code for background](images/part3_code.png)
 
 ## Part 4: Lots of Robots!
 Remove `background(205);` from your program, and run it again. Add a block comment at the top of your program that clearly explains what is happening when you remove the background line of code and what happens when you put it back in. Need help understanding this? Reach out to us!
