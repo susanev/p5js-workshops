@@ -1,7 +1,7 @@
 ## Interactive Monster
 
 ### Goals
-This assignment will help you practice using if-statements, to allow your program to perform different operations without interference. You will be creating a custom monster, with a moving eye(s), and jumping interactions. 
+This assignment will help you practice using if-statements, to allow your program to perform different operations without interference. You will be creating a custom monster, with a moving eye(s), and jumping interactions.
 
 ### Specification
 * Your canvas size should take up at least 3/4 of your screen size; work big .. not small!
@@ -11,9 +11,9 @@ This assignment will help you practice using if-statements, to allow your progra
 ### Tasks
 1. Create a own customized monster, it should have it's very own function with parameters to control its position. It should have at least 1 leg and at least 1 eye, but everything else is up to you. Some inspiration is shown below, but remember this monster should be your very own and not a copy of someone else's. As usual please sketch your ideas before you start to code and save those sketches as you will be submitting them with your portfolio link.
 
-	![alt text][monster-0]
-	![alt text][monster-1]
-	![alt text][monster-2]
+	![boxy monster](images/monster_0.png)
+	![three eyed monster](images/monster_1.png)
+	![one eyed monster](images/monster_2.png)
 
 	Feel free to also explore the [monster code](../code/monster) we reviewed in class to review functions, parameters, style, and commenting.
 
@@ -38,7 +38,7 @@ This assignment will help you practice using if-statements, to allow your progra
 
 	Run your code, you won't see any changes yet because you haven't written code to tell your monster to jump or move its eye but you should still see your monster and have no errors before moving on to the next step.
 
-1. Write code to move your eye(s). First add a variable at the top named `eyeDirection` and set its value to `0`. 
+1. Write code to move your eye(s). First add a variable at the top named `eyeDirection` and set its value to `0`.
 
 	Then find where your eye function is called from and add `eyeDirection` to your x value being passed into that eye function.
 
