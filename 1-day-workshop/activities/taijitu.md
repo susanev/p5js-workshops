@@ -2,7 +2,7 @@
 _Optional activity_
 
 ## Goal
-![Image of a Taijitu drawn with p5.js](images/taijitu.png)
+![Image of a Taijitu drawn with p5.js](../../projects/images/taijitu.png)
 
 Create a [Taijitu](https://en.wikipedia.org/wiki/Taijitu). You are limited to using only one rectangle, and as many ellipses as you need.
 
