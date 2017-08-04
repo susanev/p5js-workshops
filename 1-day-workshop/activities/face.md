@@ -18,3 +18,7 @@ Draw a face using as many shape functions as you can. This can be the face of an
 * `endShape`
 
 ## Discussion questions
+* Ellipses and rects seem to draw from different points, why do you think this is? How are ellipses and rects different?
+
+## Extra Challenge
+The face you created is probably static, add code that allows the taijitu to follow your mouse as you move it around the screen.
