@@ -29,6 +29,17 @@ __Some important highlights__
 * Support participants as they complete the workshop
 * At the end of the workshop, work to give thanks to participants on an individual basis for coming to the workshop
 
+## Workshop structure
+_We will more than likely have 2 bathroom breaks, and a 60 minute lunch, the prison will decide where these fall whithin to the structure of the workshop._
+
+* We will start with introductions, and do an ice breaker (led by Lindsey with Unloop) (15 minutes)
+* Susan will do a very quick intro to p5.js, show the basics to get setup, and how to use the reference, she will also introduce the self-portrait project (15 minutes)
+* With their volunteer students will complete the 3 activities, with brief interupptions to explain relevant concepts as needed (60 minutes)
+* Students will work on their self-portrait (60 minutes)
+* Students will present their self-portraits to the class (20 minutes)
+* Reivew and reflect on what we learned (15 minutes)
+* Closing panel, or information from Lindsey with Unloop (15 minutes)
+
 ## Topics
 _These are the topics we will touch on, remember our goal is exposure not total and complete understanding_
 * How to use the reference
@@ -47,7 +58,7 @@ _These are the topics we will touch on, remember our goal is exposure not total 
 * Draw a face
   * (Optional) Taijitu
 * Interactive robot
-* Grid of stars
+* (Optional) Grid of stars
 
 ## Self-portrait project
 This is a completely open and self-motivated project. We hope to encourage the students to take it in any direction they choose.
