@@ -19,6 +19,9 @@ Draw a face using as many shape functions as you can. Each section of the face s
 * `fill`
 * `stroke`
 
+## Programming constructs to consider using
+* functions
+
 ## Discussion questions
 * Ellipses and rects seem to draw from different points, why do you think this is? How are ellipses and rects different?
 
