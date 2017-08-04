@@ -18,3 +18,6 @@ There are many different ways to represent color on a computer. For now, we are 
 * If red is 255, green is 255, and blue is 0 what color will be created?
 * If red is 15, blue is 15, and green is 15 what color will be created?
 * If red, blue, and green are all the same value you know it will either be black, white, or a shade of what?
+
+## Extra Challenge
+Before working on this extra challenge talk to your volunteer about the differences between assignment and equality. Change your program to only change color after 2 clicks from the user (instead of 1).
