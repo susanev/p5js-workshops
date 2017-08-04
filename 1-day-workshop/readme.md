@@ -1,13 +1,37 @@
 # 1-Day Workshop
 
 ## Goal
+Unloop's mission is to enable people who have been in prison to succeed in careers in technology, this particular 1-day workshop is focused on exposure and excitement as a means to encourage further participation in workshops, classes, and self-directed learning.
 
 ## Overview
+We will be learning the basics of programming using the language p5.js. To make our projects runin a browser we will need to write HTML, CSS, and JavaScript, but we will be focusing on using the p5.js library. Students will have access to an offline version of the reference throughout the workhop. Our projects will all be visual in nature, and students will be encouraged to modify projects however they would like. The major project for the workshop will be a self-portrait of the student, literal, abstract, or somewhere inbetween.
 
-## Volunteer's Role
+If you are unfamiliar with p5.js, check out their [website](https://p5js.org/), and try out a few [tutorials](https://p5js.org/tutorials/).
+
+## Volunteer information
+Frist and foremost you should have read and agree to Unloop's [code of conduct](https://docs.google.com/document/d/1RXQqiLPNXi2Kn5AO-PBBSW7lwXDnrqHzX4rvYFVAKjM/edit?usp=sharing) as well as their [volunteer guide](https://docs.google.com/document/d/1QXRHaOGRoO6459Tz3axm3MEpBTtj5bu0HMRNlS27WjE/edit?usp=sharing).
+
+__Some important highlights__
+* Volunteers should focus on creating a safe environment in which everyone is welcomed, included, and respected
+* Participate in an authentic and active way
+* Avoid phrases like "this is easy/simple/hard"
+* Make sure to have someone's consent before touching them
+* Use _student_, _participant_, _person inside_, _officer_ instead of _offender_, _inmate_, _convict_, _con_, _felon_, _criminal_, _guard_
+* Don't ask participants why they are in prison
+* Try to avoid lingo that that seems very basic to you, but may not have a point of reference for someone who’s been in prison for 10 years (e.g., Tinder)
+* No feining surprise (e.g., "What?! How do you not know this"), no well-actually's, no back-seat driving, No subtle -isms
+* Each prison has a dress code, look it up before participating and make sure you are fully following all of their rules
+* You will not be able to bring anything inside with you, plan accordingly
+
+### Volunteer's role
+* Share your skills and knowledge, while learning alongside participants
+* Encourage and support participants to learn about and pursue careers in tech
+* Utilize your confidence and motivation to drive the mood/energy
+* Support participants as they complete the workshop
+* At the end of the workshop, work to give thanks to participants on an individual basis for coming to the workshop
 
 ## Topics
-_These are the topics we will touch on, remember our goal is exposure not complete understanding_
+_These are the topics we will touch on, remember our goal is exposure not total and complete understanding_
 * How to use the reference
 * Digital color
 * Coordinate system
