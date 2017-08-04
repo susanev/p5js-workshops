@@ -46,10 +46,10 @@ function robot() {
 ```
 
 ## Adding the interactions
-1. Setup the if statements to control whether your program will display a monster with moving eyes, or a jumping monster. First start by creating a variable named `page` at the top of your code, you should set its starting value to 0. Then add the code below to draw.
+1. Setup the if statements to control whether your program will display a robot with moving eyes, or a jumping monster. First start by creating a variable named `page` at the top of your code, you should set its starting value to 0. Then add the code below to draw.
 
 	```javascript
-	// call your monster function
+	// call your robot function
 	if (page == 0) {
 		// add code here as you complete step 4
 	} else {
@@ -57,15 +57,15 @@ function robot() {
 	}
 	```
 
-	Notice, that your `draw` function should have a total of 1 call to your monster function.
+	Notice, that your `draw` function should have a total of 1 call to your robot function.
 
-1. Add a `mousePressed` function that will switch between your two pages. If your monster is jumping and you user clicks then it should switch to the moving eye monster, if they click again it should switch back to the jumping monster .. and so on.
+1. Add a `mousePressed` function that will switch between your two pages. If your robot is jumping and you user clicks then it should switch to the moving eye robot, if they click again it should switch back to the jumping robot .. and so on.
 
 	To do this you will add `page = 1 - page;` into your `mousePressed` function.
 
 	Run your code, you won't see any changes yet because you haven't written code to tell your monster to jump or move its eye but you should still see your monster and have no errors before moving on to the next step.
 
-1. Write code to move your eye(s). First add a variable at the top named `eyeDirection` and set its value to `0`.
+1. Write code to move your eyes. First add a variable at the top named `eyeDirection` and set its value to `0`.
 
 	Then find where your eye function is called from and add `eyeDirection` to your x value being passed into that eye function.
 
@@ -85,7 +85,7 @@ function robot() {
 
 	If its working you should now be able to click to switch between your moving eyes and jumping monster.
 
-### Extra Challenge
+## Extra Challenge
 * Add code to make it look like the monster is bending its knees as it jumps (hint: you can achieve this effect my varying the length of the monster's leg(s))
 * We are changing monsters by clicking, as an improvement add some buttons that allows the user to switch by clicking a button instead of just any mouse click
 * Add some more interactive elements by adding more buttons and more monster versions
