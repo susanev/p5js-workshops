@@ -6,6 +6,7 @@ With every click by the user the background of the sketch should change color.
 
 ## Functions to consider using
 * `canvasSize`
+* `background`
 * `mousePressed` (you may also consider exploring with the variable `mouseIsPressed`)
 * `random`
 
