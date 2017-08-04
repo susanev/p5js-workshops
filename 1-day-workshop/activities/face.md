@@ -2,7 +2,7 @@
 _Activity 2_
 
 ## Goal
-Draw a face using as many shape functions as you can. Each section of the face should be in its own function that you create (e.g., eyes, mouth, ears, etc). This can be the face of an adult human, a baby, an animal, a monster, a robot, or really anything you can imagine. We encourage you to sketch out your face on paper first, before starting to program.
+Draw a face using as many shape functions as you can. Each section of the face should be in its own function that you create (e.g., eyes, mouth, ears, etc). This can be the face of an adult human, a baby, an animal, a monster, a robot, or really anything you can imagine. We encourage you to sketch out your face on paper first, before starting to program. Hint: Keep your face simple, so you have enough time for the interactive robot activity.
 
 ## Functions to consider using
 * `canvasSize`
