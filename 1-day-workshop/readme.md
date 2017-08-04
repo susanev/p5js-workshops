@@ -6,7 +6,7 @@ Unloop's mission is to enable people who have been in prison to succeed in caree
 ## Overview
 We will be learning the basics of programming using the language p5.js. To make our projects run in a browser we will need to write HTML, CSS, and JavaScript, but we will be focusing on using the p5.js library. Students will have access to an offline version of the reference throughout the workhop. Our projects will all be visual in nature, and students will be encouraged to modify projects however they would like. The major project for the workshop will be a self-portrait of the student, literal, abstract, or somewhere inbetween.
 
-If you are unfamiliar with p5.js, check out their [website](https://p5js.org/), and try out a few [tutorials](https://p5js.org/tutorials/).
+If you are unfamiliar with p5.js, check out their [website](https://p5js.org/), and try out a few [tutorials](https://p5js.org/tutorials/). They even have an alpha [web editor](https://alpha.editor.p5js.org/) if you would like to try some things out quickly.
 
 ## Volunteer information
 Frist and foremost you should have read and agree to Unloop's [code of conduct](https://docs.google.com/document/d/1RXQqiLPNXi2Kn5AO-PBBSW7lwXDnrqHzX4rvYFVAKjM/edit?usp=sharing) as well as their [volunteer guide](https://docs.google.com/document/d/1QXRHaOGRoO6459Tz3axm3MEpBTtj5bu0HMRNlS27WjE/edit?usp=sharing).
