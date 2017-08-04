@@ -12,14 +12,13 @@ If you are unfamiliar with p5.js, check out their [website](https://p5js.org/), 
 Frist and foremost you should have read and agree to Unloop's [code of conduct](https://docs.google.com/document/d/1RXQqiLPNXi2Kn5AO-PBBSW7lwXDnrqHzX4rvYFVAKjM/edit?usp=sharing) as well as their [volunteer guide](https://docs.google.com/document/d/1QXRHaOGRoO6459Tz3axm3MEpBTtj5bu0HMRNlS27WjE/edit?usp=sharing).
 
 __Some important highlights__
-* Volunteers should focus on creating a safe environment in which everyone is welcomed, included, and respected
+* Focus on creating a safe environment in which everyone is welcomed, included, and respected
 * Participate in an authentic and active way
-* Avoid phrases like "this is easy/simple/hard"
 * Make sure to have someone's consent before touching them
-* Use _student_, _participant_, _person inside_, _officer_ instead of _offender_, _inmate_, _convict_, _con_, _felon_, _criminal_, _guard_
+* Use _student_, _participant_, _person inside_, and _officer_ instead of _offender_, _inmate_, _convict_, _con_, _felon_, _criminal_, _guard_
 * Don't ask participants why they are in prison
 * Try to avoid lingo that that seems very basic to you, but may not have a point of reference for someone who’s been in prison for 10 years (e.g., Tinder)
-* No feining surprise (e.g., "What?! How do you not know this"), no well-actually's, no back-seat driving, No subtle -isms
+* No feining surprise (e.g., "What?! How do you not know this?"), no well-actually's, no back-seat driving, no subtle -isms
 * Each prison has a dress code, look it up before participating and make sure you are fully following all of their rules
 * You will not be able to bring anything inside with you, plan accordingly
 
