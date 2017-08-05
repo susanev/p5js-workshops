@@ -50,7 +50,7 @@ _These are the topics we will touch on, remember our goal is exposure not total 
 * Conditional statements
 * Events
 * Variables
-* Using rand, max, min
+* Using random, max, min
 * Loops
 
 ## Activities
