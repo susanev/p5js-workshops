@@ -30,7 +30,7 @@ __Some important highlights__
 * At the end of the workshop, work to give thanks to participants on an individual basis for coming to the workshop
 
 ## Workshop structure
-_We will more than likely have 2 bathroom breaks, and a 60 minute lunch, the prison will decide where these fall whithin to the structure of the workshop._
+_We will more than likely have 2 bathroom breaks, and a 60 minute lunch, the prison will decide where these fall within the structure of the workshop._
 
 * We will start with introductions, and do an ice breaker (led by Lindsey with Unloop) (15 minutes)
 * Susan will do a very quick intro to p5.js, show the basics to get setup, and how to use the reference, she will also introduce the self-portrait project (15 minutes)
