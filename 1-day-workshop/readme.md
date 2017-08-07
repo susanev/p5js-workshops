@@ -35,7 +35,7 @@ _We will more than likely have 2 bathroom breaks, and a 60 minute lunch, the pri
 
 * We will start with introductions, and do an ice breaker (led by Lindsey with Unloop) (15 minutes)
 * Susan will do a very quick intro to p5.js, show the basics to get setup, and how to use the reference, she will also introduce the self-portrait project (15 minutes)
-* With their volunteer, students will complete the 3 activities, with brief interupptions to explain relevant concepts as needed (60 minutes)
+* With their volunteer, students will complete the 2 activities, with brief interupptions to explain relevant concepts as needed (60 minutes)
 * Students will work on their self-portrait (60 minutes)
 * Students will present their self-portraits to the class (20 minutes)
 * Reivew and reflect on what we learned (15 minutes)
