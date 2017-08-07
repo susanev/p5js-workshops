@@ -56,8 +56,7 @@ _These are the topics we will touch on, remember our goal is exposure not total 
 ## Activities
 * [Random background color](activities/random-background.md)
 * [Draw a face](activities/face.md)
-  * (Optional) [Taijitu](activities/taijitu.md)
-* [Interactive robot](activities/interactive-robot.md)
+* (Optional) [Taijitu](activities/taijitu.md)
 * (Optional) [Grid of stars](activities/grid-of-stars.md)
 
 ## Self-portrait project
