@@ -27,6 +27,7 @@ __Some important highlights__
 * Encourage and support participants to learn about and pursue careers in tech
 * Utilize your confidence and motivation to drive the mood/energy
 * Support participants as they complete the workshop
+* It is important that you do not focus on getting the participants to code the "right way", or in the most efficient way unless they ask for this kind of support; this workshop is about them exploring with code
 * At the end of the workshop, work to give thanks to participants on an individual basis for coming to the workshop
 
 ## Workshop structure
