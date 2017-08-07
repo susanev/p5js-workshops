@@ -9,7 +9,7 @@ We will be learning the basics of programming using the language p5.js. To make 
 If you are unfamiliar with p5.js, check out their [website](https://p5js.org/), and try out a few [tutorials](https://p5js.org/tutorials/). They even have an alpha [web editor](https://alpha.editor.p5js.org/) if you would like to try some things out quickly.
 
 ## Volunteer information
-Frist and foremost you should have read and agree to Unloop's [code of conduct](https://docs.google.com/document/d/1RXQqiLPNXi2Kn5AO-PBBSW7lwXDnrqHzX4rvYFVAKjM/edit?usp=sharing) as well as their [volunteer guide](https://docs.google.com/document/d/1QXRHaOGRoO6459Tz3axm3MEpBTtj5bu0HMRNlS27WjE/edit?usp=sharing).
+Frist and foremost you should have read and agree to Unloop's [code of conduct](https://docs.google.com/document/d/1RXQqiLPNXi2Kn5AO-PBBSW7lwXDnrqHzX4rvYFVAKjM/edit?usp=sharing) as well as their [volunteer guide](https://docs.google.com/document/d/1zUCsY9VU7B3duwNpD0NXZ0FsGtfek1RQwzJDyxyvV9E/edit?usp=sharing).
 
 __Some important highlights__
 * Focus on creating a safe environment in which everyone is welcomed, included, and respected
