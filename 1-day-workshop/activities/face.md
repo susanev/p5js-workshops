@@ -45,3 +45,7 @@ _Faces created by artist Bruno Munari_
 ![alt text][bruno-munari-faces]
 
 [bruno-munari-faces]: https://github.com/susanev/p5js-workshops/blob/master/1-day-workshop/images/bruno-munari-faces.jpg "A variety of faces by Bruno Munari"
+
+### Sample Projects
+* [Face without parameters](./face-sample-projects/face-no-parameters)
+* [Face with parameters](./face-sample-projects/face-with-parameters)
