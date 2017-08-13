@@ -42,6 +42,6 @@ The face you created is probably static, add code that allows the face to follow
 
 ### Inspiration
 _Faces created by artist Bruno Munari_
-![alt text][logo]
+![alt text][bruno-munari-faces]
 
 [bruno-munari-faces]: https://github.com/susanev/p5js-workshops/blob/master/1-day-workshop/images/bruno-munari-faces.jpg "A variety of faces by Bruno Munari"
