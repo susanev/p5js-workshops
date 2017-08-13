@@ -16,26 +16,31 @@ __Some important highlights__
 * Participate in an authentic and active way
 * Make sure to have someone's consent before touching them
 * Use _student_, _participant_, _person inside_, and _officer_ instead of _offender_, _inmate_, _convict_, _con_, _felon_, _criminal_, _guard_
-* Don't ask participants why they are in prison
+* Don't ask students why they are in prison
 * Try to avoid lingo that that seems very basic to you, but may not have a point of reference for someone who’s been in prison for 10 years (e.g., Tinder)
 * No feining surprise (e.g., "What?! How do you not know this?"), no well-actually's, no back-seat driving, no subtle -isms
 * Each prison has a dress code, look it up before participating and make sure you are fully following all of their rules
 * You will not be able to bring anything inside with you, plan accordingly
 
 ### Volunteer's role
-* Share your skills and knowledge, while learning alongside participants
-* Encourage and support participants to learn about and pursue careers in tech
+* Share your skills and knowledge, while learning alongside students
+* Encourage and support students to learn about and pursue careers in tech
 * Utilize your confidence and motivation to drive the mood/energy
-* Support participants as they complete the workshop
-* It is important that you do not focus on getting the participants to code the "right way", or in the most efficient way unless they ask for this kind of support; this workshop is about them exploring with code
-* At the end of the workshop, work to give thanks to participants on an individual basis for coming to the workshop
+* Support students as they complete the workshop
+* At the end of the workshop, work to give thanks to students on an individual basis for coming to the workshop
+
+### Volunteer Tips
+* Let the student lead the project
+* Regularly encourage the student to consult the reference
+* It is important that you do not focus on getting the students to code the "right way", or in the most efficient way unless they ask for this kind of support; this workshop is about them exploring with code
 
 ## Workshop structure
-_We will more than likely have 2 bathroom breaks, and a 60 minute lunch, the prison will decide where these fall within the structure of the workshop._
+_We will more than likely have 2 bathroom breaks, and a 60 minute lunch, the prison will decide on the day of the workshop._
 
 * We will start with introductions, and do an ice breaker (led by Lindsey with Unloop) (15 minutes)
 * Susan will do a very quick intro to p5.js, show the basics to get setup, and how to use the reference, she will also introduce the self-portrait project (15 minutes)
-* With their volunteer, students will complete the 2 activities, with brief interupptions to explain relevant concepts as needed (60 minutes)
+* Students will complete the random background color activity, then we will discuss as a class techniques to solve the problem (15 minutes)
+* Students will complete the face project (45 minutes)
 * Students will work on their self-portrait (60 minutes)
 * Students will present their self-portraits to the class (20 minutes)
 * Reivew and reflect on what we learned (15 minutes)
@@ -61,7 +66,7 @@ _These are the topics we will touch on, remember our goal is exposure not total 
 * (Optional) [Grid of stars](activities/grid-of-stars.md)
 
 ## Self-portrait project
-This is a completely open and self-motivated project. We hope to encourage the students to take it in any direction they choose.
+This is a completely open and self-motivated project. We hope to encourage the students to take it in any direction they choose. Students may choose to continue to build off of their face project, or start something totally new—it's up to them!
 * Prompt: Create a complete project that represents who you are, your values, or something really important to you—a self portrait
 * Students should sketch extensively before starting, this will not only help them but it will also help the volunteers give assitance and help along the way
 * Encourage students who work quickly to add interactions to their self portrait
