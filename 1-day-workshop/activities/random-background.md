@@ -20,4 +20,8 @@ There are many different ways to represent color on a computer. For now, we are 
 * If red, blue, and green are all the same value you know it will either be black, white, or a shade of what?
 
 ## Extra Challenge
-Before working on this extra challenge talk to your volunteer about the differences between assignment and equality. Change your program to only change color after 2 clicks from the user (instead of 1).
+Before working on this extra challenge talk to your volunteer about:
+  - the differences between assignment and equality
+  - something that you tried that _didn't_ work and how you eventually fixed it
+
+* Change your program to only change color after 2 clicks from the user (instead of 1).
