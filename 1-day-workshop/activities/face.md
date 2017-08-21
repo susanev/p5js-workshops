@@ -34,24 +34,27 @@ Now, choose one of the faces you drew, or draw a new one and build it with code.
 ### Programming constructs to consider using
 * functions
 
-### Discussion questions
+## Tips
+* Add `text("(" + mouseX + ", " + mouseY + ")", mouseX, mouseY);` to draw to display the coordinates of the mouse location
+
+## Discussion questions
 * How does the coordinate system work on the canvas?
 * Where is the origin?
 * With a canvas that is passed 720,400, where about is the point 700,400?
 * Ellipses and rects seem to draw from different points, why do you think this is? How are ellipses and rects different?
 
-### Extra Challenges
+## Extra Challenges
 * The face you created is probably static, add code that allows the face to follow your mouse as you move it around the screen.
 * When the user clicks, change the face to a random color
 * Add code so that the eyes on the face follow the mouse
 
-### Inspiration
+## Inspiration
 _Faces created by artist Bruno Munari_
 ![alt text][bruno-munari-faces]
 
 [bruno-munari-faces]: https://github.com/susanev/p5js-workshops/blob/master/1-day-workshop/images/bruno-munari-faces.jpg "A variety of faces by Bruno Munari"
 
-### Sample Projects
+## Sample Projects
 * [Basic face](./face-sample-projects/basic-face)
 * [Face without parameters](./face-sample-projects/face-no-parameters)
 * [Face with parameters](./face-sample-projects/face-with-parameters)
