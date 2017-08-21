@@ -5,7 +5,7 @@ _Activity 2_
 Draw a face using as many shape functions as you can. Each section of the face should be in its own function that you create (e.g., eyes, mouth, ears, etc). This can be the face of an adult human, a baby, an animal, a monster, a robot, or really anything you can imagine. We encourage you to sketch out your face on paper first, before starting to program. _Hint: Keep your face simple, so you have enough time for the later activities._
 
 ## Warm up
-Before we start writing code we are going to take some time to sketch a few ideas out on paper. These will be fast sketches, and we will focus on using basic shapes (circles, rectangles, triangles, lines, etc).
+Before we start writing code we are going to take some time to sketch a few ideas out on paper. These will be fast sketches, and we will focus on using basic shapes (circles, rectangles, triangles, lines, etc.).
 
 __Prompts__
 Sketch what you imagine your facial expression to be when ...
