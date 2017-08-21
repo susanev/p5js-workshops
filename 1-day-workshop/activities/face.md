@@ -40,8 +40,10 @@ Now, choose one of the faces you drew, or draw a new one and build it with code.
 * With a canvas that is passed 720,400, where about is the point 700,400?
 * Ellipses and rects seem to draw from different points, why do you think this is? How are ellipses and rects different?
 
-### Extra Challenge
-The face you created is probably static, add code that allows the face to follow your mouse as you move it around the screen.
+### Extra Challenges
+* The face you created is probably static, add code that allows the face to follow your mouse as you move it around the screen.
+* When the user clicks, change the face to a random color
+* Add code so that the eyes on the face follow the mouse
 
 ### Inspiration
 _Faces created by artist Bruno Munari_
