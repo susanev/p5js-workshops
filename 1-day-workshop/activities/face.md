@@ -35,6 +35,9 @@ Now, choose one of the faces you drew, or draw a new one and build it with code.
 * functions
 
 ### Discussion questions
+* How does the coordinate system work on the canvas?
+* Where is the origin?
+* With a canvas that is passed 720,400, where about is the point 700,400?
 * Ellipses and rects seem to draw from different points, why do you think this is? How are ellipses and rects different?
 
 ### Extra Challenge
