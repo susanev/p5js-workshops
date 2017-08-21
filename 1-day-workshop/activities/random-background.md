@@ -21,7 +21,7 @@ There are many different ways to represent color on a computer. For now, we are 
 
 ## Extra Challenge
 Before working on this extra challenge talk to your volunteer about:
-  - the differences between assignment and equality
-  - something that you tried that _didn't_ work and how you eventually fixed it
+  - The differences between assignment and equality
+  - Something that you tried that _didn't_ work and how you eventually fixed it
 
 * Change your program to only change color after 2 clicks from the user (instead of 1).
