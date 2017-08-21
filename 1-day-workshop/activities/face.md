@@ -35,7 +35,7 @@ Now, choose one of the faces you drew, or draw a new one and build it with code.
 * functions
 
 ## Tips
-* Add `text("(" + mouseX + ", " + mouseY + ")", mouseX, mouseY);` to draw to display the coordinates of the mouse location
+* Add `text("(" + mouseX + ", " + mouseY + ")", mouseX, mouseY);` to `draw` to display the coordinates of the mouse location
 
 ## Discussion questions
 * How does the coordinate system work on the canvas?
