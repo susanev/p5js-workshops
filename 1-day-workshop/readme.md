@@ -31,7 +31,7 @@ __Some important highlights__
 
 ### Volunteer Tips
 * Let the student lead the project
-* Regularly encourage the student to consult the reference
+* Regularly encourage students to consult the reference
 * It is important that you do not focus on getting the students to code the "right way", or in the most efficient way unless they ask for this kind of support; this workshop is about them exploring with code
 
 ## Workshop structure
